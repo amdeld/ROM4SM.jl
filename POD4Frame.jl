@@ -1,5 +1,5 @@
 function trstiff(coo,E,A)
-# Function that computes stiffness matrix for truss element
+# Function that computes stiffness matrix for truss element !
 # (file name trstiff.m)
 L=sqrt((coo[2,1]-coo[1,1])^2+(coo[2,2]-coo[1,2])^2)
 C=(coo[2,1]-coo[1,1])/L
