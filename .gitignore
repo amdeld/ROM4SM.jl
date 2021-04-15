@@ -1,5 +1,11 @@
 .ipynb_checkpoints/
-data/
 img/
-VKI_Lecture_PODexample-v2.ipynb
-
+data/X.csv
+data/Xn.csv
+data/Y.csv
+data/uinter.txt
+data/uinter.csv
+data/ufem.txt
+data/ufem.csv
+data/Lunar_Results.csv
+data/Lunar_Frames.png
