@@ -1,11 +1,3 @@
 .ipynb_checkpoints/
 img/
-data/X.csv
-data/Xn.csv
-data/Y.csv
-data/uinter.txt
-data/uinter.csv
-data/ufem.txt
-data/ufem.csv
-data/Lunar_Results.csv
-data/Lunar_Frames.png
+data/
