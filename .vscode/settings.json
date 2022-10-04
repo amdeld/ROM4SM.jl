@@ -1,0 +1,20 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\Users\\AD\\.julia\\conda\\3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\AD\\AppData\\Roaming\\jupyter\\kernels\\julia-1.7\\kernel.json",
+            "type": "jupyterKernelspec"
+        },
+        {
+            "path": "c:\\Users\\AD\\AppData\\Roaming\\jupyter\\kernels\\julia-1.8\\kernel.json",
+            "type": "jupyterKernelspec"
+        },
+        {
+            "path": "c:\\Users\\AD\\.julia\\conda\\3\\envs\\VKI_ML_course\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
